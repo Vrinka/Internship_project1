@@ -34,7 +34,7 @@ Output: '8'
 
 ## Development:
 
-If you'd like to contribute or modify this project, feel free to fork the repository and submit a pull request.
+If you'd like to contribute or modify this project, feel free to work the repository and submit a pull request.
 
 
  
